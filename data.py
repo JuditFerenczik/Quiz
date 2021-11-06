@@ -11,7 +11,7 @@ questions = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;",
+        "question": "The common software-programming acronym 'I18N' comes from the term 'Interlocalization'",
 
         "correct_answer": "False",
         "incorrect_answers": ["True"]},
@@ -33,14 +33,16 @@ questions = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+        "question": "The very first recorded computer &quot;bug&quot; "
+                    "was a moth found inside a Harvard Mark II computer.",
         "correct_answer": "True",
         "incorrect_answers": ["False"]},
     {
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+        "question": "All program codes have to be compiled into an executable file in"
+                    " order to be run. This file can then be executed on any machine.",
         "correct_answer": "False",
         "incorrect_answers": ["True"]},
     {
@@ -53,19 +55,20 @@ questions = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;.",
+        "question": "The programming language 'Python' is based off a modified version of 'JavaScript'",
         "correct_answer": "False",
         "incorrect_answers": ["True"]},
     {
         "category": "Science: Computers",
         "type": "boolean", "difficulty": "medium",
-        "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+        "question": "'Windows NT' is a monolithic kernel.",
         "correct_answer": "False",
         "incorrect_answers": ["True"]},
     {
         "category": "Science: Computers",
         "type": "boolean", "difficulty": "medium",
-        "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
+        "question": "To bypass US Munitions Export Laws, the creator of "
+                    "the PGP published all the source code in book form. ",
         "correct_answer": "True", "incorrect_answers": ["False"]},
     {
         "category": "Science: Computers",
@@ -111,13 +114,13 @@ questions = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "&quot;HTML&quot; stands for Hypertext Markup Language.",
+        "question": "HTML stands for Hypertext Markup Language.",
         "correct_answer": "True",
         "incorrect_answers": ["False"]},
     {
         "category": "Science: Computers",
         "type": "boolean", "difficulty": "easy",
-        "question": "In most programming languages, the operator ++ is equivalent to the statement &quot;+= 1&quot;.",
+        "question": "In most programming languages, the operator ++ is equivalent to the statement '+='",
         "correct_answer": "True",
         "incorrect_answers": ["False"]},
     {
@@ -179,8 +182,8 @@ questions = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "easy",
-       "question": "Linux was first created as an alternative to Windows XP.",
-       "correct_answer": "False",
+        "question": "Linux was first created as an alternative to Windows XP.",
+        "correct_answer": "False",
         "incorrect_answers": ["True"]},
     {
         "category": "Science: Computers",
@@ -193,8 +196,9 @@ questions = [
         "category": "Science: Computers",
         "type": "boolean",
         "difficulty": "medium",
-       "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
-       "correct_answer": "False",
+        "question": "Linus Sebastian is the creator of the Linux kernel, "
+                    "which went on to be used in Linux, Android, and Chrome OS.",
+        "correct_answer": "False",
         "incorrect_answers": ["True"]},
     {
         "category": "Science: Computers",
@@ -211,7 +215,8 @@ questions = [
         "category": "Science: Mathematics",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.",
+        "question": "The Pythagorean theorem states that the square of the hypotenuse is"
+                    " equal to the product of the squares of the other two sides.",
         "correct_answer": "False",
         "incorrect_answers": ["True"]
     },
@@ -242,7 +247,7 @@ questions = [
         "category": "Science: Mathematics",
         "type": "boolean",
         "difficulty": "hard",
-        "question": "The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;",
+        "question": "The binary number '101001101' is equivalent to the Decimal number '334'",
         "correct_answer": "False",
         "incorrect_answers": ["True"]
     },
@@ -273,7 +278,8 @@ questions = [
     {
         "category": "Science: Mathematics",
         "type": "boolean", "difficulty": "hard",
-        "question": "L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
+        "question": "L'Hospital was the mathematician who created the"
+                    " homonymous rule that uses derivatives to evaluate limits with indeterminations.",
         "correct_answer": "False",
         "incorrect_answers": ["True"]
     },
